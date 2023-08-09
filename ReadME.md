@@ -1,0 +1,1 @@
+# This is an Vertical-Platform animation demo designed using HTML & JavaScript
